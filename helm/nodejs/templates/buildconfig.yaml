@@ -3,7 +3,7 @@ apiVersion: build.openshift.io/v1
 metadata:
   name: {{ .Values.name | quote }}
   annotations:
-    description: Defines how to build the application
+    description: Defines how to build the applications
 spec:
   source:
     type: Git
