@@ -1,6 +1,6 @@
 {
   "kind": "Template",
-  "apiVersion": "v1",
+  "apiVersion": "v2",
   "metadata": {
     "name": "nodejs-example",
     "annotations": {
